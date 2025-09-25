@@ -29,7 +29,7 @@ This project uses deep learning and audio signal processing to classify **normal
    - Extract MFCC from a single `.wav` file.
    - Predict class:
      - `0 = Normal`
-     - `1 = Abnormal`
+     - `1 = Abnormal`(Wheezes/Crackles)
    - Outputs prediction with confidence.
 
 ---
