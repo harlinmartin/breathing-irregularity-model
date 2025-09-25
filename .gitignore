@@ -1,0 +1,12 @@
+__pycache__/
+*.npy
+*.wav
+*.mp4
+*.h5
+*.keras
+*.pkl
+*.zip
+*.tar
+data/audio/
+data/processed/
+models/
